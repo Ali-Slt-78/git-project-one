@@ -2,8 +2,12 @@ body {
     background-color: black;
     background-color: blue;
 }
+
 header {
     background-attachment: fixed;
     background-color: black;
+}
 
+p {
+    text-align: justify;
 }
