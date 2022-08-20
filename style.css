@@ -11,3 +11,8 @@ header {
 p {
     text-align: justify;
 }
+
+.bg-primary {
+    background-color: #f9e7fa !important;
+}
+
